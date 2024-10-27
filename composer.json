@@ -1,0 +1,10 @@
+{
+  "name": "drupal/drupal-site",
+  "description": "My Drupal site using Docker environment.",
+  "type": "project",
+  "require": {
+    "drupal/recommended-project": "^9.0"
+  },
+  "minimum-stability": "stable",
+  "license": "GPL-2.0-or-later"
+}
